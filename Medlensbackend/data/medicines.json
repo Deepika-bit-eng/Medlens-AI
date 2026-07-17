@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metformin",
+    "purpose": "Controls blood sugar levels in Type 2 diabetes.",
+    "why_prescribed": "First-line medicine for Type 2 Diabetes.",
+    "common_side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset"
+    ],
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/druginfo/meds/a696005.html"
+  }
+]
